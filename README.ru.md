@@ -1,4 +1,7 @@
 # Cross-platform-avrdude-GUI
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ybott/Cross-platform-avrdude-GUI/blob/master/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/ybott/Cross-platform-avrdude-GUI/blob/master/README.ru.md)
+
 DaDuDa - простая кроссплатформенная графическая оболочка для avrdude, написанная на Qt.
 
 Как оказалось, большинство графических оболочек для avrdude написаны для Windows, за исключением, разве что, "Burn-O-Mat". Но и он не захотел нормально работать на моей Orange Pi5 (запускался, но ничего не выполнял). А так как я не сторонник прописывать километры комманд в терминале, решил написать свою графическую оболочку.

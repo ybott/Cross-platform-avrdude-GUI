@@ -1,8 +1,7 @@
 # Cross-platform-avrdude-GUI
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ybott/Cross-platform-avrdude-GUI/blob/master/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/ybott/Cross-platform-avrdude-GUI/blob/master/README.ru.md)
 
-# Cross-platform-avrdude-GUI
 DaDuDa is a simple cross-platform graphical front-end for avrdude, written in Qt.
 
 As it turns out, most of the graphical shells for avrdude are written for Windows, with the possible exception of "Burn-O-Mat". But it didn’t want to work normally on my Orange Pi5 (it started, but didn’t do anything). And since I’m not a fan of writing kilometers of commands in the terminal, I decided to write my own graphical shell.
